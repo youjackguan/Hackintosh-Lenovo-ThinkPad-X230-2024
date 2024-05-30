@@ -17,7 +17,7 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 
  <img src="/img/Screenshot3.png?raw=true" alt="macOS Screenshot" align="center">
  <img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
- <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
+ 
 
 > ## How to Get
 - Clone whole repo: $ `git clone https://github.com/youjackguan/Hackintosh-Lenovo-ThinkPad-X230-2024`
@@ -43,7 +43,8 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 - [x] <b>OpenCore binary, config.plist</b>, drivers for uefi, themes, etc..
 - [x] <b>Patched ACPI Tables (DSDT-SSDT)</b> for Audio, Sleep, etc..
 - [x] <b>3rd party kexts</b> for working devices under macOS High Sierra (10.13), macOS Mojave (10.14), and macOS Catalina (10.15)
- 
+- [x] <b>Realtek ALC269 Audio Setting</b> for working devices under macOS High Sierra (10.13), macOS Mojave (10.14), and macOS Catalina (10.15)
+  <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
 <details>
 <summary><strong> What's Worked </strong></summary>
 <br>
