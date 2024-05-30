@@ -49,9 +49,9 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
   <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
 
  <details>
-<summary><strong>BIOS设置 :100:</strong></summary>
+<summary><strong>BIOS Setting :100:</strong></summary>
 
-一个简单的方法来安装修改后的BIOS是可用的 [here](https://github.com/n4ru/1vyrain/) (no external programmer required).
+How to set BIOS maskesure it works [here](https://github.com/n4ru/1vyrain/) (no external programmer required).
 
 | Main | Sub #1                                 | Sub #2 | Sub #3 | Setting |
 | :------------ | :----------- | ------------- | ------------- | ------------- |
