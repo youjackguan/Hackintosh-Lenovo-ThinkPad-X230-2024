@@ -15,8 +15,6 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 - macOS Catalina 10.15.x
 - macOS Big Sur 11.x
 
- <img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
- <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
  
 
 > ## How to Get
@@ -47,6 +45,7 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
   <img src="/img/Screenshot3.png?raw=true" alt="macOS Screenshot" align="center">
 - [x] <b>Wireless Setting</b> for Intel Centrino Advanced-N 6300agn
   <img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
+  
   <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
   
 <details>
