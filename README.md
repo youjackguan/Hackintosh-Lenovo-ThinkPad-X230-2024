@@ -18,23 +18,23 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 <img src="/img/Screenshot.png?raw=true" alt="macOS Screenshot" align="center">
  
 > ## How to Get
-- Clone whole repo: $ `git clone https://github.com/muhrizki1996/Hackintosh-Lenovo-ThinkPad-X230`
-- Download [Specific Folder](https://minhaskamal.github.io/DownGit/#/home) only.
+- Clone whole repo: $ `git clone https://github.com/youjackguan/Hackintosh-Lenovo-ThinkPad-X230-2024`
+- Download [Specific Folder](https://youjackguan.github.io/DownGit/#/home) only.
  
 > ## Notebook Specs
 <img src="/img/Lenovo-ThinkPad-X230.png?raw=true" alt="Lenovo ThinkPad X230" align="right" width="433" height="325">
 
 - [x] <b>Model</b>: Lenovo ThinkPad X230
-- [x] <b>CPU</b>: Intel i5-3210M (3) @ 2.50GHz (3rd Gen)
+- [x] <b>CPU</b>: Intel i7-3250M (3) @ 2.90GHz (3rd Gen)
 - [x] <b>Chipset</b>: Intel® QM77 Express Chipset
 - [x] <b>GPU</b>: Intel HD Graphics 4000 @ 1GB
-- [x] <b>RAM</b>: 4GB DDR3 @ 1333MHz (upgrade to 8GB DDR3L @ 1600Mhz)
-- [x] <b>Storage</b>: 320GB SATA HDD @ 7200rpm (GUID Partition Table) (upgrade to 120GB SATA SSD)
+- [x] <b>RAM</b>: 12GB DDR3 @ 1333MHz (upgrade to 8GB DDR3L @ 1600Mhz)
+- [x] <b>Storage</b>:  120GB SATA SSD and 500GB SATA HDD @ 5400rpm (GUID Partition Table)
 - [x] <b>Audio</b>: Realtek ALC269 HD Audio Controller
-- [x] <b>Wifi</b>: Intel Centrino Advanced-N 6205 Dual-Band
+- [x] <b>Wifi</b>: Intel Centrino Advanced-N 6300agn
 - [x] <b>Ethernet</b>: Intel 82579LM Gigabit Network Connection
 - [x] <b>Bluetooth</b>: Broadcom BCM20702A0
-- [x] <b>Others</b>: 1 USB 2.0 ports, 2 USB 3.0 ports Synaptics PS/2 TouchPad + Track Point, VGA port, Mini Display port, WebCam, 12.5" 16:9 HD (1366x768) TN Panel, Express Card Slot, 3.5mm Combo Headphone Jack, (SD/ MS/ MS Pro/ MMC) Card Reader, 6/9-Cell @5.6Ah/8.4Ah Lithium-ion Battery
+- [x] <b>Others</b>: 1 USB 2.0 ports, 2 USB 3.0 ports Synaptics PS/2 TouchPad + Track Point, VGA port, Mini Display port, WebCam, 12.5" 16:9 HD (1366x768) TN Panel, Express Card Slot, 3.5mm Combo Headphone Jack, (SD/ MS/ MS Pro/ MMC) Card Reader, 9-Cell @5.6Ah/8.4Ah Lithium-ion Battery
 - [x] <b>BIOS</b>: 2.51
  
 > ## EFI Contains
