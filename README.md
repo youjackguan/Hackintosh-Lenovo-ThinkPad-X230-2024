@@ -15,7 +15,9 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 - macOS Catalina 10.15.x
 - macOS Big Sur 11.x
  
-<img src="/img/Screenshot.png?raw=true" alt="macOS Screenshot" align="center">
+<img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
+<img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
+<img src="/img/Screenshot3.png?raw=true" alt="macOS Screenshot" align="center">
  
 > ## How to Get
 - Clone whole repo: $ `git clone https://github.com/youjackguan/Hackintosh-Lenovo-ThinkPad-X230-2024`
@@ -35,7 +37,7 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 - [x] <b>Ethernet</b>: Intel 82579LM Gigabit Network Connection
 - [x] <b>Bluetooth</b>: Broadcom BCM20702A0
 - [x] <b>Others</b>: 1 USB 2.0 ports, 2 USB 3.0 ports Synaptics PS/2 TouchPad + Track Point, VGA port, Mini Display port, WebCam, 12.5" 16:9 HD (1366x768) TN Panel, Express Card Slot, 3.5mm Combo Headphone Jack, (SD/ MS/ MS Pro/ MMC) Card Reader, 9-Cell @5.6Ah/8.4Ah Lithium-ion Battery
-- [x] <b>BIOS</b>: 2.51
+- [x] <b>BIOS</b>: 2.02
  
 > ## EFI Contains
 - [x] <b>OpenCore binary, config.plist</b>, drivers for uefi, themes, etc..
