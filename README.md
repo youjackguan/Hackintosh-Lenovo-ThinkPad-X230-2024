@@ -19,7 +19,7 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 
 > ## How to Get
 - Clone whole repo: $ `git clone https://github.com/youjackguan/Hackintosh-Lenovo-ThinkPad-X230-2024`
-- Download [Specific Folder](https://youjackguan.github.io/DownGit/#/home) only.
+- Download [Specific Folder](https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ThinkPad_X230.pdf)only.
  
 > ## Notebook Specs
 <img src="/img/Lenovo-ThinkPad-X230.png?raw=true" alt="Lenovo ThinkPad X230" align="right" width="433" height="325">
