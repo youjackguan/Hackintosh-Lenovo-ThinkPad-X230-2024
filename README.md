@@ -47,7 +47,27 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
   <img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
   
   <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
-  
+
+ <details>
+<summary><strong>BIOS设置 :100:</strong></summary>
+
+一个简单的方法来安装修改后的BIOS是可用的 [here](https://github.com/n4ru/1vyrain/) (no external programmer required).
+
+| Main | Sub #1                                 | Sub #2 | Sub #3 | Setting |
+| :------------ | :----------- | ------------- | ------------- | ------------- |
+| Config | Network | Wake On Lan |  | Disabled |
+|  | Serial ATA (SATA) | Mode |  | AHCI |
+| Advanced | System Agent (SA) configuration | Graphics Configuration | DVMT Pre-Allocated | 128MB |
+|  |  |  | DVMT Total Gfx Mem | MAX |
+| Security | Security Chip |  |  | Disabled |
+|  | Memory Protection | Execution Prevention |  | Enabled |
+|  | Anti-Theft | Current Setting |  | Disabled |
+|  |  | Computrace | Current Setting | Disabled |
+|  | Secure Boot |  |  | Disabled |
+| Startup | UEFI/Legacy Boot |  |  | UEFI Only |
+|  |  | CSM Support |  | Disabled |
+
+</details>
 <details>
 <summary><strong> What's Worked </strong></summary>
 <br>
