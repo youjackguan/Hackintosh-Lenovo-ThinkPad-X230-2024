@@ -1,0 +1,1 @@
+# Hackintosh-Lenovo-ThinkPad-X230-2024
