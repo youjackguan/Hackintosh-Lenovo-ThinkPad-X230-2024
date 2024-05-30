@@ -66,11 +66,9 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
  
 </details>
 <summary><strong> Realtek ALC269 Setting </strong></summary>
-<br>
 <img src="/img/Screenshot3.png?raw=true" alt="macOS Screenshot" align="center">
 
 <summary><strong> Intel wireless 6300agn Setting </strong></summary>
-<br>
 <img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
 <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
 
