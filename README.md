@@ -15,8 +15,8 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 - macOS Catalina 10.15.x
 - macOS Big Sur 11.x
 
- <img src="/img/Screenshot3.png?raw=true" alt="macOS Screenshot" align="center">
  <img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
+ <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
  
 
 > ## How to Get
@@ -43,8 +43,12 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 - [x] <b>OpenCore binary, config.plist</b>, drivers for uefi, themes, etc..
 - [x] <b>Patched ACPI Tables (DSDT-SSDT)</b> for Audio, Sleep, etc..
 - [x] <b>3rd party kexts</b> for working devices under macOS High Sierra (10.13), macOS Mojave (10.14), and macOS Catalina (10.15)
-- [x] <b>Realtek ALC269 Audio Setting</b> for working devices under macOS High Sierra (10.13), macOS Mojave (10.14), and macOS Catalina (10.15)
+- [x] <b>Audio Setting</b> for Realtek ALC269 HD layout=55（37000000）
+  <img src="/img/Screenshot3.png?raw=true" alt="macOS Screenshot" align="center">
+- [x] <b>Wireless Setting</b> for Intel Centrino Advanced-N 6300agn
+  <img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
   <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
+  
 <details>
 <summary><strong> What's Worked </strong></summary>
 <br>
