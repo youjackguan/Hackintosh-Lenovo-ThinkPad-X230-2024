@@ -31,7 +31,7 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 - [x] <b>Chipset</b>: Intel® QM77 Express Chipset
 - [x] <b>GPU</b>: Intel HD Graphics 4000 @ 1GB
 - [x] <b>RAM</b>: 12GB DDR3 @ 1333MHz (upgrade to 8GB DDR3L @ 1600Mhz)
-- [x] <b>Storage</b>:  120GB SATA SSD and 500GB SATA HDD @ 5400rpm (GUID Partition Table)
+- [x] <b>Storage</b>:  Samsung 120GB SATA SSD and 500GB SATA HDD @ 5400rpm (GUID Partition Table)
 - [x] <b>Audio</b>: Realtek ALC269 HD Audio Controller
 - [x] <b>Wifi</b>: Intel Centrino Advanced-N 6300agn
 - [x] <b>Ethernet</b>: Intel 82579LM Gigabit Network Connection
@@ -53,13 +53,13 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 | QE/CI Enabled Graphics               | ✅   | OpenCore Inject + WhateverGreen.kext |
 | Brightness Adjustments               | ✅   | PNLF DSDT Patch + WhateverGreen.kext + BrightnessKeys.kext |
 | Realtek ALC269 Audio out             | ✅   | HDEF DSDT Patch + AppleALC.kext with Layout ID = 55 |
-| Intel Centrino Advanced-N 6205 Dual-Band       | ✅   | Airportitlwm.kext + Force IO80211Family.kext on OpenCore |
+| Intel Centrino Advanced-N 6300agn    | ✅   | AirportItlwm.kext + AirportBrcmFixup.kext + Force IO80211Family.kext on OpenCore |
 | Intel 82579LM Gigabit Network Connection | ✅   | IntelMausi.kext |
-| Broadcom BCM20702A0 Bluetooth        | ✅   | BlueTooth.kext (not working on macOS Monterey) |
+| Broadcom BCM20702A0 Bluetooth        | ✅   | BrcmBluetoothInjector.kext + BrcmFirmwareData.kext|
 | Synaptics TouchPad + Track Point     | ✅   | VodooPS2Controller.kext |
 | Multimedia Keys                      | ✅   | BrightnessKeys.kext + [YogaSMC](https://github.com/zhen-zen/YogaSMC) |
-| Battery Indicator                    | ✅   | ECEnabler.kext |
-| WebCam                               | ✅   | Native + UVC2FaceTimeHD.kext for spoofing UVC WebCams as FaceTime HD (not working on macOS Big Sur and newer) |
+| Battery Indicator                    | ✅   | SMCBatteryManager.kext |
+| WebCam                               | ✅   | Native |
 | USB2.0 Port + USB 3.0 Port           | ✅   | USBPorts.kext |
 | Sleep and Wake                       | ✅   | DSDT + SSDT Patch |
 | Mac App Store Access                 | ✅   | Native |
