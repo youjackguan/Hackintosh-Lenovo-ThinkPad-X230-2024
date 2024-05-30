@@ -14,8 +14,11 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 - macOS Mojave 10.14.x
 - macOS Catalina 10.15.x
 - macOS Big Sur 11.x
- 
- 
+
+ <img src="/img/Screenshot3.png?raw=true" alt="macOS Screenshot" align="center">
+ <img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
+ <img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
+
 > ## How to Get
 - Clone whole repo: $ `git clone https://github.com/youjackguan/Hackintosh-Lenovo-ThinkPad-X230-2024`
 - Download [Specific Folder](https://youjackguan.github.io/DownGit/#/home) only.
@@ -65,16 +68,7 @@ This is my complete EFI folder to be used for hackintosh on Lenovo ThinkPad X230
 | miniDP Port                          | ✅   | Tested using miniDP to HDMI Adapter |
  
 </details>
-<summary><strong> Realtek ALC269 Setting </strong></summary>
-<img src="/img/Screenshot3.png?raw=true" alt="macOS Screenshot" align="center">
-<details>
- 
-<details>
-<summary><strong> Intel wireless 6300agn Setting </strong></summary>
-<img src="/img/Screenshot1.png?raw=true" alt="macOS Screenshot" align="center">
-<img src="/img/Screenshot2.png?raw=true" alt="macOS Screenshot" align="center">
-<details>
- 
+
 <details>
 <summary><strong> List of Gestures </strong></summary>
 <br>
